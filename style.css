@@ -12,6 +12,7 @@ body {
     background-repeat: no-repeat;
     margin: 0%;
     padding: 0%;
+    padding-bottom: 40px;
    
 }
 .part1{
@@ -27,7 +28,7 @@ h1{
     font-size: 80px;
     padding-top: 150px;
 }
-p{
+.p1{
     color: rgb(255, 231, 231);
     width: 100%;
     font-size: 16px;
@@ -36,7 +37,6 @@ p{
 .btn{
   
     color: aliceblue;
-     width: 100;
      font-size:20px;
      align-items: center;
      justify-content: center;
@@ -46,6 +46,40 @@ p{
      border-radius: 7px;
      font-weight: 600;
     
+}
+h2{
+    margin-top: 35px;
+    font-size: 44px;
+    font-weight :bolder;
+}
+.p2{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 14px;
+    color: #1E1E1E;
+}
+
+.button{
+    padding: 4%;
+    background-color: #d6d1d1;
+    margin: 1%;
+    border: none;
+    border-radius:5% ;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #0e0c0c;
+}
+.bttns-box{
+    margin: 4%;
+}
+h5{
+    margin: 15px;
+}
+
+.bttnns-box{
+    margin: 40px;
 }
 
 
