@@ -81,5 +81,48 @@ h5{
 .bttnns-box{
     margin: 40px;
 }
-
-
+.food-box{
+    width: 250px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+  background-color: #EDF5F6;
+  font-size: 12px;
+}
+.shelter-box{
+    width:  220px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFEEEE;
+    text-align: left;
+    font-size: 12px;
+}
+.education-box{
+    width:  250px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    background-color: #FFF4D6;
+    text-align: left;
+    font-size: 12px;
+}
+.box{
+   display: flex;
+   width: 80% ;
+   margin:  0 auto;
+}
+h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.box-pic{
+    padding-top: 15px;
+    padding-bottom:10px ;
+}
+.box-p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+}
