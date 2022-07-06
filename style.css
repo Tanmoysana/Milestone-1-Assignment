@@ -49,7 +49,7 @@ h1{
 }
 h2{
     margin-top: 35px;
-    font-size: 44px;
+    font-size: 30px;
     font-weight :bolder;
 }
 .p2{
@@ -116,6 +116,7 @@ h5{
 h3{
     padding-top: 10px;
     padding-bottom: 10px;
+    font-weight: bolder;
 }
 .box-pic{
     padding-top: 15px;
@@ -125,4 +126,84 @@ h3{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+.donation{
+    text-align: left;
+    width: 70%;
+    margin: 25px;
+}
+.donation1{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+}
+.donation3{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+.img4{
+    width: 75%;
+    margin-top: 65px;
+    float: right;
+}
+.img5{
+    width: 75%;
+    margin-top: 65px;
+   float: left;
+}
+.button2{
+    padding: 12px 25px; 
+    background-color: orangered;
+    border: none;  
+    border-radius:7px ;
+    font-weight: bolder;
+    font-size: 25;
+    color: white;
+}
+.last{
+    width: 50%;
+    margin: 0 auto;
+}
+.lasth2{margin: 2%;
+    font-weight: bolder;
+
+}
+.lastp{
+    font-size: small;
+   margin: 2%;
+}
+.input{
+    border: 1 px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 40px 80px;
+    background-color: #FFF4D6;
+   
+}
+h4{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 3%;
+    color: #FF5959;
+    padding: 1%;
+}
+.footerp{
+    font-size: small;
+   margin: 2%;
+   color: #FFF4D6;
+   padding-bottom: 3%;
+}
+footer{
+    width: 100%;
+    background-color: black;
+}
+.button3{
+    padding: 3px 8px; 
+    background-color: orangered;
+    border: none;  
+    border-radius:3px ;
+    font-weight: bold;
+    font-size: 16;
+    color: white;
 }
